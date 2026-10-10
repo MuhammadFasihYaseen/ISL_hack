@@ -1,0 +1,250 @@
+[
+ {
+  "label": "Job offcut (sheet 1)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 637,
+  "width": 606,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 1)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 614,
+  "width": 139,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 1)",
+  "material": "6mm back panel",
+  "kind": "Offcut",
+  "length": 2440,
+  "width": 421,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 1)",
+  "material": "6mm back panel",
+  "kind": "Offcut",
+  "length": 799,
+  "width": 641,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 1)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 428,
+  "width": 417,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 2)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 403,
+  "width": 214,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 1)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 1234,
+  "width": 114,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 1)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 303,
+  "width": 167,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 2)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 485,
+  "width": 367,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 2)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 1067,
+  "width": 114,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 2)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 735,
+  "width": 108,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 3)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 383,
+  "width": 232,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 3)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 403,
+  "width": 132,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 4)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 717,
+  "width": 403,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 1)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 1437,
+  "width": 1220,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (sheet 1)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 1003,
+  "width": 231,
+  "qty": 1
+ },
+ {
+  "label": "Leftover of Job offcut (sheet 2)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 1220,
+  "width": 270,
+  "qty": 1
+ },
+ {
+  "label": "Leftover of Job offcut (sheet 2)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 1767,
+  "width": 114,
+  "qty": 1
+ },
+ {
+  "label": "Leftover of Job offcut (sheet 4)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 1220,
+  "width": 270,
+  "qty": 1
+ },
+ {
+  "label": "Leftover of Job offcut (sheet 4)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 1767,
+  "width": 154,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (new sheet 1)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 2440,
+  "width": 321,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (new sheet 1)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 899,
+  "width": 341,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (new sheet 2)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 2440,
+  "width": 321,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (new sheet 2)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 899,
+  "width": 341,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (new sheet 3)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 1220,
+  "width": 337,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (new sheet 3)",
+  "material": "18mm board",
+  "kind": "Offcut",
+  "length": 2103,
+  "width": 114,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (new sheet 1)",
+  "material": "6mm back panel",
+  "kind": "Offcut",
+  "length": 2440,
+  "width": 319,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (new sheet 1)",
+  "material": "6mm back panel",
+  "kind": "Offcut",
+  "length": 901,
+  "width": 341,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (new sheet 2)",
+  "material": "6mm back panel",
+  "kind": "Offcut",
+  "length": 2440,
+  "width": 319,
+  "qty": 1
+ },
+ {
+  "label": "Job offcut (new sheet 2)",
+  "material": "6mm back panel",
+  "kind": "Offcut",
+  "length": 901,
+  "width": 341,
+  "qty": 1
+ },
+ {
+  "label": "",
+  "material": "18mm board",
+  "kind": "Full sheet",
+  "length": 2440,
+  "width": 1220,
+  "qty": 5
+ }
+]
